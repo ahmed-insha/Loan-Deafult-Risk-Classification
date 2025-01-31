@@ -35,12 +35,8 @@ The project uses three primary datasets:
 - **Number of Principal Components Chosen:** 27  
 - **Accuracy Score:** 68.51%  
 - **Classification Report:**
-             precision    recall  f1-score   support  
-
-       0       0.68      0.73      0.70      3946  
-       1       0.69      0.64      0.66      3714  
-
-accuracy                           0.69      7660  
+            ![image](https://github.com/user-attachments/assets/d92fdc08-07c6-477f-aba2-7ae53ed7c01f)
+ 
 
 
 ## Tools & Technologies Used  
